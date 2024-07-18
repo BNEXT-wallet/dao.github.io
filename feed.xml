@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>daoBlog</title>
-    <link href="https://dao.github.io/feed.xml" rel="self" />
-    <link href="https://dao.github.io" />
+    <link href="https://bnext-wallet.github.io/dao.github.io/feed.xml" rel="self" />
+    <link href="https://bnext-wallet.github.io/dao.github.io" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>W</name>
     </author>
-    <id>https://dao.github.io</id>
+    <id>https://bnext-wallet.github.io/dao.github.io</id>
 
 </feed>
