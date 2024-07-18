@@ -3,10 +3,30 @@
     <title>daoBlog</title>
     <link href="https://bnext-wallet.github.io/dao.github.io/feed.xml" rel="self" />
     <link href="https://bnext-wallet.github.io/dao.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-07-18T15:16:02+08:00</updated>
     <author>
         <name>W</name>
     </author>
     <id>https://bnext-wallet.github.io/dao.github.io</id>
 
+    <entry>
+        <title>这是我的文章</title>
+        <author>
+            <name>W</name>
+        </author>
+        <link href="https://bnext-wallet.github.io/dao.github.io/zhe-shi-wo-de-wen-zhang.html"/>
+        <id>https://bnext-wallet.github.io/dao.github.io/zhe-shi-wo-de-wen-zhang.html</id>
+
+        <updated>2024-07-18T15:16:02+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是我的文章这是我的文章这是我的文章这是我的文章这是我的文章这是我的文章
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>这是我的文章这是我的文章这是我的文章这是我的文章这是我的文章这是我的文章</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
